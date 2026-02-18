@@ -34,7 +34,7 @@ export default function Dashboard() {
             <Zap className="h-5 w-5 text-white" fill="currentColor" />
           </div>
           <div className="hidden md:block">
-            <h1 className="text-xl font-bold text-white tracking-tight">DERISCOPE</h1>
+            <h1 className="text-xl font-bold text-white tracking-tight">DERIVERSE</h1>
             <p className="text-[10px] text-zinc-500 uppercase tracking-wider font-semibold">Pro Analytics</p>
           </div>
         </div>
